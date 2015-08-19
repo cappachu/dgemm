@@ -1,6 +1,6 @@
 dgemm
 =====
-Fast Double Precision Matrix Matrix Multiply (DGEMM) for square matrices.
+**Fast Double Precision Matrix Matrix Multiply (DGEMM) for square matrices.**
 
 Optimizations
 -------------
